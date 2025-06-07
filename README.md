@@ -2,6 +2,16 @@
 
 A RESTful API for flight booking built with Node.js, Express, and Supabase.
 
+# UI
+## 1. Home Page
+<img width="1607" alt="Screenshot 2025-06-07 at 2 21 17 PM" src="https://github.com/user-attachments/assets/291a67d9-43be-4dc2-86e9-7affe0843f13" />
+
+## 2. Sign Up
+<img width="1553" alt="Screenshot 2025-06-07 at 2 21 30 PM" src="https://github.com/user-attachments/assets/aa6e9182-0d28-4d7f-8cf8-0b70ff2b1869" />
+
+## 3. Dashboard
+<img width="1569" alt="Screenshot 2025-06-07 at 2 21 56 PM" src="https://github.com/user-attachments/assets/8c1de9d5-a820-4582-b593-a92cee80473c" />
+
 ## Features
 
 - Search available flights
