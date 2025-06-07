@@ -80,16 +80,21 @@ Production mode:
 npm start
 ```
 
-## API Endpoints
+## API Reference
+✈️ Flights
+GET /api/flights
+Search for available flights.
 
-### Flights
+Query Params: origin, destination, date
 
-- `GET /api/flights` - Search flights
-  - Query parameters: origin, destination, date
-  - Example: `/api/flights?origin=JFK&destination=LAX&date=2024-04-01`
+Example:
+/api/flights?origin=JFK&destination=LAX&date=2024-04-01
 
-- `GET /api/flights/:id` - Get flight details
-  - Example: `/api/flights/123e4567-e89b-12d3-a456-426614174000`
+GET /api/flights/:id
+Get details for a specific flight.
+
+Example:
+/api/flights/123e4567-e89b-12d3-a456-426614174000
 
 ### Bookings
 
